@@ -1,0 +1,37 @@
+body{
+    background-color: #f6f8fc;
+}
+body> section{
+    /* medida "rem" refere a o tamanho da fonte do dispositivo 
+    do cliente, onde vai traser mais frexicidade */
+    width: 100vw;
+    padding: 1rem;
+    background-color: #ffff;
+}
+section > h1{
+    font-size: 2rem;
+}
+
+@media screen and (min-width:380px){
+    section > ol {
+        
+        grid-template-columns: 1fr 1fr;
+    }
+}
+@media screen and (min-width:576px){
+     section > ol {
+        
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+@media screen and (min-width:992px){
+    .content{
+        max-width: 992px;
+        margin: 1rem auto;
+        
+    }
+    section > ol {
+        
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+}
