@@ -1,6 +1,6 @@
 📌 Descrição do Projeto
 
-Este projeto é uma Pokédex interativa desenvolvida como parte de um desafio da DIO.me
+Este projeto é uma Pokédex interativa desenvolvida como parte de um desafio da [DIO.me](https://www.dio.me/sign-up?ref=TEYEDP2PJZ)
 .
 A aplicação consome dados da PokéAPI, exibindo os Pokémons de forma dinâmica e organizada.
 
