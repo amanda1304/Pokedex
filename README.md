@@ -1,4 +1,4 @@
-<h1> 📌 Descrição do Projeto </h1>
+<h1> 📌 Desafio Pokédex </h1>
 
 Este projeto é uma Pokédex interativa desenvolvida como parte de um desafio da [DIO.me](https://www.dio.me/sign-up?ref=TEYEDP2PJZ)
 .
